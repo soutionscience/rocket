@@ -1,0 +1,22 @@
+{
+  "name": "rocket",
+  "version": "1.0.0",
+  "description": "crowsorced going to mars",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "rocket"
+  ],
+  "author": "Rubin Njagi",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.0.2",
+    "moment": "^2.24.0",
+    "sinon": "^7.2.7"
+  }
+}
